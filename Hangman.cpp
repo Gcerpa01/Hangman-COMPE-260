@@ -6,7 +6,6 @@
  **     Filename:  Hangman.cpp
  **
  **       Author:  Gerardo Cerpa
- **        REDID:  819144749
  **
  **  Lab Section:  CompE260
  **     Due Date:  10/04/2020 @ 11:59PM
